@@ -61,6 +61,7 @@ npm run build      # type-check + production build to dist/
 
 ## Roadmap hooks already in place
 
+
 - `db.ts` v2 migration slot → cloud sync / multi-device later.
 - `engine.ts` `REVIEW_OFFSETS` → add the +7 review when the horizon extends.
 - Availability array → swap for a full blocked-hours grid (spec F12) without
